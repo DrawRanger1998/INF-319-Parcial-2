@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Pregunta4", "http://localhost:28140", "{5E06ADDB-A312-4C4E-8B7D-BE42946D0165}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_28140"
+		Debug.AspNetCompiler.PhysicalPath = "..\Pregunta4\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_28140\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_28140"
+		Release.AspNetCompiler.PhysicalPath = "..\Pregunta4\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_28140\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\Pregunta4\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Library1", "Library1\Library1.fsproj", "{91E70B9A-76E1-46D3-BFC6-D757037B14F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E06ADDB-A312-4C4E-8B7D-BE42946D0165}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E06ADDB-A312-4C4E-8B7D-BE42946D0165}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E06ADDB-A312-4C4E-8B7D-BE42946D0165}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E06ADDB-A312-4C4E-8B7D-BE42946D0165}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{91E70B9A-76E1-46D3-BFC6-D757037B14F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91E70B9A-76E1-46D3-BFC6-D757037B14F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91E70B9A-76E1-46D3-BFC6-D757037B14F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91E70B9A-76E1-46D3-BFC6-D757037B14F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
