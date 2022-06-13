@@ -1,0 +1,10 @@
+c:\users\orlando\documents\visual studio 2012\Projects\Fibonnaci-Fshard\Fibonnaci-Fshard\bin\Debug\Fibonnaci_Fshard.exe.config
+c:\users\orlando\documents\visual studio 2012\Projects\Fibonnaci-Fshard\Fibonnaci-Fshard\bin\Debug\Fibonnaci_Fshard.XML
+c:\users\orlando\documents\visual studio 2012\Projects\Fibonnaci-Fshard\Fibonnaci-Fshard\bin\Debug\Fibonnaci_Fshard.exe
+c:\users\orlando\documents\visual studio 2012\Projects\Fibonnaci-Fshard\Fibonnaci-Fshard\bin\Debug\Fibonnaci_Fshard.pdb
+c:\users\orlando\documents\visual studio 2012\Projects\Fibonnaci-Fshard\Fibonnaci-Fshard\bin\Debug\FSharp.Core.dll
+c:\users\orlando\documents\visual studio 2012\Projects\Fibonnaci-Fshard\Fibonnaci-Fshard\bin\Debug\FSharp.Core.xml
+c:\users\orlando\documents\visual studio 2012\Projects\Fibonnaci-Fshard\Fibonnaci-Fshard\bin\Debug\es\FSharp.Core.resources.dll
+c:\users\orlando\documents\visual studio 2012\Projects\Fibonnaci-Fshard\Fibonnaci-Fshard\obj\Debug\Fibonnaci-Fshard.fsprojResolveAssemblyReference.cache
+c:\users\orlando\documents\visual studio 2012\Projects\Fibonnaci-Fshard\Fibonnaci-Fshard\obj\Debug\Fibonnaci_Fshard.exe
+c:\users\orlando\documents\visual studio 2012\Projects\Fibonnaci-Fshard\Fibonnaci-Fshard\obj\Debug\Fibonnaci_Fshard.pdb

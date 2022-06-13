@@ -1,0 +1,10 @@
+c:\users\orlando\documents\visual studio 2012\Projects\FshardFunOrdenSup\FshardFunOrdenSup\bin\Debug\FshardFunOrdenSup.exe.config
+c:\users\orlando\documents\visual studio 2012\Projects\FshardFunOrdenSup\FshardFunOrdenSup\bin\Debug\FshardFunOrdenSup.XML
+c:\users\orlando\documents\visual studio 2012\Projects\FshardFunOrdenSup\FshardFunOrdenSup\bin\Debug\FshardFunOrdenSup.exe
+c:\users\orlando\documents\visual studio 2012\Projects\FshardFunOrdenSup\FshardFunOrdenSup\bin\Debug\FshardFunOrdenSup.pdb
+c:\users\orlando\documents\visual studio 2012\Projects\FshardFunOrdenSup\FshardFunOrdenSup\bin\Debug\FSharp.Core.dll
+c:\users\orlando\documents\visual studio 2012\Projects\FshardFunOrdenSup\FshardFunOrdenSup\bin\Debug\FSharp.Core.xml
+c:\users\orlando\documents\visual studio 2012\Projects\FshardFunOrdenSup\FshardFunOrdenSup\bin\Debug\es\FSharp.Core.resources.dll
+c:\users\orlando\documents\visual studio 2012\Projects\FshardFunOrdenSup\FshardFunOrdenSup\obj\Debug\FshardFunOrdenSup.fsprojResolveAssemblyReference.cache
+c:\users\orlando\documents\visual studio 2012\Projects\FshardFunOrdenSup\FshardFunOrdenSup\obj\Debug\FshardFunOrdenSup.exe
+c:\users\orlando\documents\visual studio 2012\Projects\FshardFunOrdenSup\FshardFunOrdenSup\obj\Debug\FshardFunOrdenSup.pdb

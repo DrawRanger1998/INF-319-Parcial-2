@@ -1,0 +1,9 @@
+c:\users\orlando\documents\visual studio 2012\Projects\FshardFunTemporales\FshardFunTemporales\bin\Debug\FshardFunTemporales.exe.config
+c:\users\orlando\documents\visual studio 2012\Projects\FshardFunTemporales\FshardFunTemporales\bin\Debug\FshardFunTemporales.XML
+c:\users\orlando\documents\visual studio 2012\Projects\FshardFunTemporales\FshardFunTemporales\bin\Debug\FshardFunTemporales.exe
+c:\users\orlando\documents\visual studio 2012\Projects\FshardFunTemporales\FshardFunTemporales\bin\Debug\FshardFunTemporales.pdb
+c:\users\orlando\documents\visual studio 2012\Projects\FshardFunTemporales\FshardFunTemporales\bin\Debug\FSharp.Core.dll
+c:\users\orlando\documents\visual studio 2012\Projects\FshardFunTemporales\FshardFunTemporales\bin\Debug\FSharp.Core.xml
+c:\users\orlando\documents\visual studio 2012\Projects\FshardFunTemporales\FshardFunTemporales\bin\Debug\es\FSharp.Core.resources.dll
+c:\users\orlando\documents\visual studio 2012\Projects\FshardFunTemporales\FshardFunTemporales\obj\Debug\FshardFunTemporales.exe
+c:\users\orlando\documents\visual studio 2012\Projects\FshardFunTemporales\FshardFunTemporales\obj\Debug\FshardFunTemporales.pdb
